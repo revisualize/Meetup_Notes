@@ -1,0 +1,20 @@
+Notes from the 29th Seattle Hacker News Meetup on June 3, 2014
+
+Speaker: Andrea Moro, VP of Product at DoubleDown Interactive
+Synopsis: Lessons learned in making products people will pay for.
+
+- Primary Motivators: Power (Control/War/Conquer/Destruction), Affiliation (Nurturing/Build Relationships - even subconsciously), Achievement (Goal, Rank, Score)
+- High Frequency Loops: 1, 2, 3, 5 minute loops; quick turn around. Example: quick play on the bus or toilet [Don't judge. You can monetize toilet time.]
+- Temptation Moments: Track user interaction and offer assistance for advancement for nominal fee. Example: Play has hit a nerve, player is struggling. Offer a token to ease or complete the accomplishment after 'x' number of tries. Find ways to reduce conversion friction.
+- Anticipation of winning is better than winning.
+- Usability -> Cognitive Load: Build Relationships - Design and Cater Relationship growth with the user(s). Reduce mental fatigue, friction and stress. Create minor stress moments within interaction and offer temptation modifiers.
+
+Side Notes:
+Someone mentioned 'list of cognitive biases' and Steve Yegge
+Try not to completely scrap projects. Find ways to make projects modular. This allows code, ideas, or whatever to be reused and/or re-purposed.If a project is struggling. Curb the project for a week or two then re-engage with the project. This may cause a new viewpoints or allow for a pivot.
+
+Research Notes: (I've added these after the talk.)
+http://en.wikipedia.org/wiki/Cognitive_bias
+http://en.wikipedia.org/wiki/List_of_cognitive_biases
+http://en.wikipedia.org/wiki/Cognitive_load
+With a little side research, I found this: http://www.lucs.lu.se/christian.balkenius/thesis/Chapter06.html
