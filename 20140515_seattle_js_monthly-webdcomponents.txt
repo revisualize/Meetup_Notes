@@ -1,0 +1,72 @@
+20140515_seattle_js_monthly-webdcomponents
+
+Speaker: David Von Lehman 
+Synopsis: Static Single Page Apps & Static Web App
+
+Single Page App (SPA) - Web app on single page that grabs small dynamic content.
+Static Web App (SWA) - Client side web application using browser instead of server content processing 
+* A Field Guide to Static Apps - http://www.staticapps.org
+Services: 
+APIs via Programmable Web
+Backend as a Service: Firebase, Parse
+- Build own API? [Research this]
+Libraries: AngularJS, Ember, Backbone.
+Grunt, Bower
+WebRTC, ES6, WebComponents, famo.us
+
+SPA - Issues with Search Engine Optimization.
+SPA - Back button issues. {After talk research: HTML5 HistoryAPI pushState(); popState()}
+
+Slides: slides.aerobatic.io
+
+
+===============================================
+
+
+Speaker: Jan Miksovsky
+Synopsis: Web Components
+{This was a basic demo. Took a bunch of photos of code.}
+
+HTML Imports
+Templates 
+Shadow DOM - {Research this!}
+Custom Elements - registering new tags within the browser
+
+Polymer
+platform.js
+polymer.html
+
+Custom Web components have tag-name (never with an underscore. always with a dash.)
+
+http://webcomponents.org
+http://component.kitchen/
+
+Modern browser + web components =  less/no need for jQuery
+
+See: bit.ly/1mn44FT for more info
+
+
+===============================================
+
+
+Speaker: Marcy Sutton
+Synopsis: Web Components and Accessibility
+
+Accessablity Challenges: Semantics, keyboard access, text alts, color contrast {Personal Note: 456 Berea St.?}
+Web Components:
+Custom Elements
+Shadow DOM {Research this!!!!!}
+Templates
+HTML Imports
+
+Shadow DOM - encapsilation by hiding DOM subtree under shadow roots. {WTF}
+
+DEMO - EXPLOSIONS!
+
+aria-disabled
+aria-hidden
+aria - ???
+
+
+http://marcysutton.github.io/accessibility-of-web-components/
+Slides: http://marcysutton.github.io/accessibility-of-web-components/slides.html
