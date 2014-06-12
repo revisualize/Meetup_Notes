@@ -1,12 +1,11 @@
 20140515_seattle_js_monthly-webdcomponents
-
-Speaker: David Von Lehman 
+Speaker: David Von Lehman
 Synopsis: Static Single Page Apps & Static Web App
 
 Single Page App (SPA) - Web app on single page that grabs small dynamic content.
-Static Web App (SWA) - Client side web application using browser instead of server content processing 
+Static Web App (SWA) - Client side web application using browser instead of server content processing
 * A Field Guide to Static Apps - http://www.staticapps.org
-Services: 
+Services:
 APIs via Programmable Web
 Backend as a Service: Firebase, Parse
 - Build own API? [Research this]
@@ -28,7 +27,7 @@ Synopsis: Web Components
 {This was a basic demo. Took a bunch of photos of code.}
 
 HTML Imports
-Templates 
+Templates
 Shadow DOM - {Research this!}
 Custom Elements - registering new tags within the browser
 
@@ -52,14 +51,14 @@ See: bit.ly/1mn44FT for more info
 Speaker: Marcy Sutton
 Synopsis: Web Components and Accessibility
 
-Accessablity Challenges: Semantics, keyboard access, text alts, color contrast {Personal Note: 456 Berea St.?}
+Accessibility Challenges: Semantics, keyboard access, text alts, color contrast {Personal Note: 456 Berea St.?}
 Web Components:
 Custom Elements
 Shadow DOM {Research this!!!!!}
 Templates
 HTML Imports
 
-Shadow DOM - encapsilation by hiding DOM subtree under shadow roots. {WTF}
+Shadow DOM - encapsulation by hiding DOM subtree under shadow roots. {WTF}
 
 DEMO - EXPLOSIONS!
 
